@@ -1,0 +1,4 @@
+minicurso-git
+=============
+
+meuProjeto1
